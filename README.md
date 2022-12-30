@@ -1,2 +1,2 @@
 # amogus-chicken-nugget
-print("amogusussybakamogus")
+get real
